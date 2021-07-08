@@ -14,4 +14,7 @@ export class HeaderComponent implements OnInit {
   toggleLoginTask(){
     console.log('toggle');
   }
+  toggleLoginTask2(){
+    console.log('toggle');
+  }
 }
